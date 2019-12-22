@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\bin\Debug\DescripeImagesUsingAPIs.exe.config
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\bin\Debug\DescripeImagesUsingAPIs.exe
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\bin\Debug\DescripeImagesUsingAPIs.pdb
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\obj\Debug\DescripeImagesUsingAPIs.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\obj\Debug\DescripeImagesUsingAPIs.Form1.resources
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\obj\Debug\DescripeImagesUsingAPIs.Properties.Resources.resources
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\obj\Debug\DescripeImagesUsingAPIs.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\obj\Debug\DescripeImagesUsingAPIs.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\obj\Debug\DescripeImagesUsingAPIs.csproj.CopyComplete
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\obj\Debug\DescripeImagesUsingAPIs.exe
+C:\Users\USER\source\repos\DescripeImagesUsingAPIs\obj\Debug\DescripeImagesUsingAPIs.pdb
